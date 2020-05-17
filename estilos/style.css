@@ -10,10 +10,12 @@ body{
 
 header{
     font-size: 30px;
-    margin-left: 120px;
+    margin-left: 55px;
     }
 
 div{
+    width: 410px;
+    height: 410px;
     margin: 45px;
 }
 
